@@ -21,3 +21,5 @@ AI & Data Science undergrad building **real systems** across ML, RL, Web3 automa
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+<h3>My GitHub Stats:</h3>
+<a href="https://github.com/Hysetericalcat/Hysetericalcat"><img src="https://github-readme-stats.vercel.app/api?username=Hysetericalcat&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hysetericalcat's GitHub stats" /></a>

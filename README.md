@@ -1,4 +1,4 @@
-## Hello There 🚀
+## Hello There ⭐️
 B.Tech final year student obsessed with **mechanistic interpretability** and **AI agents**.  
 Curious about what's actually happening inside neural networks — and building systems that act in the world.
 
@@ -20,6 +20,26 @@ Curious about what's actually happening inside neural networks — and building 
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
-### GitHub Stats
-<a href="https://github.com/Hysetericalcat/Hysetericalcat"><img src="https://github-readme-stats.vercel.app/api?username=Hysetericalcat&show_icons=true&hide=prs,issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Hysetericalcat's GitHub stats" /></a>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hysetericalcat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- GitHub Stats -->
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Stats"/>
+      </td>
+      <td>
+        <h2>GitHub Analytics</h2>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-nine-tau-59.vercel.app/api?username=Hysetericalcat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-nine-tau-59.vercel.app/api/top-langs/?username=Hysetericalcat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+<br/>
